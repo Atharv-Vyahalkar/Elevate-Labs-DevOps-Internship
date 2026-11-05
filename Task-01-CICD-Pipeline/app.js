@@ -5,7 +5,7 @@ function createServer() {
 
         if (req.url === "/") {
             res.writeHead(200, { "Content-Type": "text/html" });
-            res.end("<h1>Welcome to my DevOps Internship Project!</h1>");
+            res.end("<h1>Welcome to my Automated CI/CD Pipeline!</h1>");
         }
 
         else if (req.url === "/health") {
