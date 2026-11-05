@@ -14,7 +14,7 @@ test("Homepage should return welcome message", async () => {
         const body = await response.text();
 
         assert.strictEqual(response.status, 200);
-        assert.match(body, /Welcome to my DevOps Internship Project/);
+        assert.match(body, /Welcome to my Automated CI\/CD Pipeline/);
     } finally {
         await new Promise(resolve => server.close(resolve));
     }
