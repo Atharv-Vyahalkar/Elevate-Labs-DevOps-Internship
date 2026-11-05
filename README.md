@@ -1,4 +1,3 @@
-# Elevate-Labs-DevOps-Internship
 # Elevate Labs – DevOps Internship
 
 ## Overview
