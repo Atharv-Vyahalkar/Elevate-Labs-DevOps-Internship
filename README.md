@@ -56,7 +56,7 @@ Elevate-Labs-DevOps-Internship/
 - Understand version control and deployment automation.
 
 ## Author
-DevOps Internship Trainee
+Atharv Vyahalkar
 
 ## Note
 This repository will be continuously updated as new internship tasks are completed.
