@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Elevate Labs – DevOps Internship
 
 ## Overview
